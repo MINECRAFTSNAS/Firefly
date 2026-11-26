@@ -68,9 +68,9 @@ export const commentConfig: CommentConfig = {
 		// 获取 Giscus 评论系统反应功能
 		reactionsEnabled: "1",
 		// 获取 Giscus 评论系统元数据功能
-		emitMetadata: "0",
+		emitMetadata: "1",
 		// 获取 Giscus 评论系统输入位置
-		inputPosition: "bottom",
+		inputPosition: "top",
 		// 获取 Giscus 评论系统语言
 		lang: "zh-CN",
 		// 获取 Giscus 评论系统加载方式
