@@ -3,7 +3,7 @@ title: 我的第一篇文章
 slug: My-frist-article
 published: 2026-11-24
 description: 一个简单的自我介绍
-tag: [Markdown, 博客, 介绍]
+tags: [Markdown, 博客, 介绍]
 pinned: true
 ---
 
